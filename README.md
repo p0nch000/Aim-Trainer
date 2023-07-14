@@ -9,7 +9,7 @@ Install the pygame library by running the following command:
 pip install pygame
 Download the source code from the GitHub repository.
 Run the script by executing the following command:
-python aim_trainer.py
+python aimtrainer.py
 Use your mouse to aim and click on the targets that appear on the screen.
 Try to hit as many targets as possible within the given number of lives.
 The game will end once you run out of lives, and your performance statistics will be displayed on the end screen.
